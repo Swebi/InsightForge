@@ -31,7 +31,7 @@ const Navbar = () => {
           }
         >
           <h1 className="w-full text-3xl font-bold text-[#00df9a] m-4">
-            REACT
+            InsightForge
           </h1>
           <li className="p-4 border-b border-gray-600">Home</li>
           <li className="p-4 border-b border-gray-600">Company</li>
